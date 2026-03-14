@@ -1,0 +1,102 @@
+body{
+font-family: "Segoe UI", Arial;
+margin:0;
+background:#f5f5f5;
+text-align:center;
+color:#333;
+}
+
+header{
+background:white;
+padding:40px 20px;
+border-bottom:1px solid #ddd;
+}
+
+.logo-container{
+text-align:center;
+}
+
+.logo{
+width:80px;
+margin-bottom:10px;
+}
+
+h1{
+font-size:40px;
+color:black;
+letter-spacing:3px;
+margin:0;
+}
+
+.subtitle{
+font-size:18px;
+margin-top:5px;
+}
+
+.location{
+color:#666;
+margin-top:5px;
+}
+
+nav{
+margin-top:20px;
+}
+
+nav a{
+margin:0 15px;
+text-decoration:none;
+color:#333;
+font-weight:600;
+}
+
+nav a:hover{
+color:black;
+}
+
+section{
+padding:60px 20px;
+}
+
+h2{
+margin-bottom:30px;
+}
+
+.achievement-grid{
+display:flex;
+justify-content:center;
+flex-wrap:wrap;
+gap:25px;
+}
+
+.achievement-card{
+background:white;
+padding:25px;
+width:250px;
+border-radius:10px;
+box-shadow:0 4px 12px rgba(0,0,0,0.08);
+}
+
+.gallery-grid{
+display:flex;
+justify-content:center;
+flex-wrap:wrap;
+gap:20px;
+}
+
+.gallery-grid img{url(d:/appa phone backup/best photo/158A6391.JPG)
+width:260px;
+height:180px;
+object-fit:cover;
+border-radius:8px;
+}
+
+.contact{
+font-size:18px;
+line-height:2;
+}
+
+footer{
+background:white;
+padding:20px;
+border-top:1px solid #ddd;
+}
